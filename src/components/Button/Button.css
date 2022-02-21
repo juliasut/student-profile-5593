@@ -1,0 +1,9 @@
+.button {
+  width: 30px;
+  height: 30px;
+  margin: 20px;
+  fill: #a9a9a9;
+}
+.button:hover {
+  fill: black;
+}

@@ -1,0 +1,12 @@
+.grade-list-container {
+  margin: 1em auto;
+}
+
+.grade-list {
+  display: flex;
+  flex-direction: row;
+}
+
+.grade-info {
+  margin-right: 25px;
+}
