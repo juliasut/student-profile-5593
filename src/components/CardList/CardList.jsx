@@ -1,5 +1,5 @@
 import './CardList.css';
-import Card from './card/Card';
+import Card from '../card/Card';
 
 export default function CardList(props) {
   const { students } = props;
